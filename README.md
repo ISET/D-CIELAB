@@ -3,7 +3,7 @@ D-CIELAB
 
 This repository includes the code that was the basis of Haomiao Jiang's paper:
 
-[D-CIELAB: A Color Metric For Dichromatic Observers}(https://sid.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fsdtp.10358&mobileUi=0) <br>
+[D-CIELAB: A Color Metric For Dichromatic Observers](https://sid.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fsdtp.10358&mobileUi=0) <br>
 Haomiao Jiang, Brian A. Wandell Joyce E. Farrell <br>
 Department of Electrical Engineering, Stanford University <br>
 
